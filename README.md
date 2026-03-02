@@ -1,16 +1,16 @@
 Exchange Rate Calculator
 
-Exchange Rate Calculator, Euro, Dolar ve TL bazındaki döviz kurlarını API aracılığıyla güncel olarak gösteren ve birbirine çevirmenizi sağlayan basit ve kullanışlı bir web uygulamasıdır.
+Exchange Rate Calculator is a simple and handy web application that shows up-to-date exchange rates for Euro, Dollar, and TL via an API and allows you to convert between them.
 
-Özellikler
-	•	Euro, Dolar ve TL kurlarını güncel olarak gösterir.
-	•	İki döviz arasında kolayca dönüştürme yapılabilir.
-	•	“Kur Değiştir” butonu ile çevrilecek para birimlerini hızlıca değiştirebilirsiniz.
-	•	Tamamen frontend (HTML/CSS/JS) ile çalışır, ekstra kurulum gerekmez.
+Features
+	•	Displays the latest exchange rates for Euro, Dollar, and TL.
+	•	Easily convert between two currencies.
+	•	Quickly switch the currencies to convert using the “Swap Currency” button.
+	•	Fully frontend-based (HTML/CSS/JS), no extra setup required.
 
-Kullanım:
+Usage:
 
-Canlı Demo
+Live Demo
 
-Projeyi GitHub Pages ile açmak için:
+To open the project with GitHub Pages:
 https://erenozeren.github.io/exchange-rate-calculator/
